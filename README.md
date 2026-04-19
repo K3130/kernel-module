@@ -1,5 +1,4 @@
 # kernel-module
-kernel module
 
 пример работы
 
